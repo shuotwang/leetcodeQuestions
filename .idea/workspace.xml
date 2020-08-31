@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a1ea9f36-6cde-47d3-8eaa-117286a9ebed" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/0820_1048_Longest String Chain.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0830_952_Largest Component Size by Common Factor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
