@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a1ea9f36-6cde-47d3-8eaa-117286a9ebed" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/0905_Learn_Python_bisect.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0905_Learn_Two pointer questions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0905_259_3Sum Smaller.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
