@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a1ea9f36-6cde-47d3-8eaa-117286a9ebed" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/0902_Learn_Binery search in sorted and rotated array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0905_Learn_Python_bisect.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0905_Learn_Two pointer questions.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,7 +32,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.0902_Learn_Find missing number">
+  <component name="RunManager" selected="Python.0905_Learn_Python_bisect">
     <configuration name="0901_Bitwise" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="leetcodeQuestions" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -74,48 +75,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="0901_Learn_Major_element" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="leetcodeQuestions" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0901_Learn_Major_element.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="0901_OA_Zigzag" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="leetcodeQuestions" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0901_OA_Zigzag.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="0902_Learn_Find missing number" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="leetcodeQuestions" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -137,13 +96,55 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="0905_Learn_Python_bisect" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="leetcodeQuestions" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0905_Learn_Python_bisect.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="0905_Learn_Two pointer questions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="leetcodeQuestions" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0905_Learn_Two pointer questions.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.0905_Learn_Python_bisect" />
+        <item itemvalue="Python.0905_Learn_Two pointer questions" />
         <item itemvalue="Python.0902_Learn_Find missing number" />
         <item itemvalue="Python.0901_Largest subarray" />
         <item itemvalue="Python.0901_Bitwise" />
-        <item itemvalue="Python.0901_Learn_Major_element" />
-        <item itemvalue="Python.0901_OA_Zigzag" />
       </list>
     </recent_temporary>
   </component>
@@ -161,26 +162,42 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1899" height="304" key="GridCell.Tab.0.bottom" timestamp="1599107974122">
+    <state width="1899" height="163" key="GridCell.Tab.0.bottom" timestamp="1599363128599">
       <screen x="0" y="23" width="1920" height="993" />
     </state>
     <state width="977" height="304" key="GridCell.Tab.0.bottom/1920.368.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1598999829368" />
-    <state width="1899" height="304" key="GridCell.Tab.0.bottom/1920.391.1440.877/0.23.1920.993@0.23.1920.993" timestamp="1599107974122" />
-    <state width="1899" height="304" key="GridCell.Tab.0.center" timestamp="1599107974121">
+    <state width="1899" height="163" key="GridCell.Tab.0.bottom/1920.391.1440.877/0.23.1920.993@0.23.1920.993" timestamp="1599363128599" />
+    <state width="1899" height="163" key="GridCell.Tab.0.center" timestamp="1599363128598">
       <screen x="0" y="23" width="1920" height="993" />
     </state>
     <state width="977" height="304" key="GridCell.Tab.0.center/1920.368.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1598999829367" />
-    <state width="1899" height="304" key="GridCell.Tab.0.center/1920.391.1440.877/0.23.1920.993@0.23.1920.993" timestamp="1599107974121" />
-    <state width="1899" height="304" key="GridCell.Tab.0.left" timestamp="1599107974120">
+    <state width="1899" height="163" key="GridCell.Tab.0.center/1920.391.1440.877/0.23.1920.993@0.23.1920.993" timestamp="1599363128598" />
+    <state width="1899" height="163" key="GridCell.Tab.0.left" timestamp="1599363128597">
       <screen x="0" y="23" width="1920" height="993" />
     </state>
     <state width="977" height="304" key="GridCell.Tab.0.left/1920.368.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1598999829366" />
-    <state width="1899" height="304" key="GridCell.Tab.0.left/1920.391.1440.877/0.23.1920.993@0.23.1920.993" timestamp="1599107974120" />
-    <state width="1899" height="304" key="GridCell.Tab.0.right" timestamp="1599107974121">
+    <state width="1899" height="163" key="GridCell.Tab.0.left/1920.391.1440.877/0.23.1920.993@0.23.1920.993" timestamp="1599363128597" />
+    <state width="1899" height="163" key="GridCell.Tab.0.right" timestamp="1599363128598">
       <screen x="0" y="23" width="1920" height="993" />
     </state>
     <state width="977" height="304" key="GridCell.Tab.0.right/1920.368.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1598999829367" />
-    <state width="1899" height="304" key="GridCell.Tab.0.right/1920.391.1440.877/0.23.1920.993@0.23.1920.993" timestamp="1599107974121" />
+    <state width="1899" height="163" key="GridCell.Tab.0.right/1920.391.1440.877/0.23.1920.993@0.23.1920.993" timestamp="1599363128598" />
+    <state width="1899" height="332" key="GridCell.Tab.1.bottom" timestamp="1599347570144">
+      <screen x="0" y="23" width="1920" height="993" />
+    </state>
+    <state width="1899" height="332" key="GridCell.Tab.1.bottom/1920.391.1440.877/0.23.1920.993@0.23.1920.993" timestamp="1599347570144" />
+    <state width="1899" height="332" key="GridCell.Tab.1.center" timestamp="1599347570144">
+      <screen x="0" y="23" width="1920" height="993" />
+    </state>
+    <state width="1899" height="332" key="GridCell.Tab.1.center/1920.391.1440.877/0.23.1920.993@0.23.1920.993" timestamp="1599347570144" />
+    <state width="1899" height="332" key="GridCell.Tab.1.left" timestamp="1599347570143">
+      <screen x="0" y="23" width="1920" height="993" />
+    </state>
+    <state width="1899" height="332" key="GridCell.Tab.1.left/1920.391.1440.877/0.23.1920.993@0.23.1920.993" timestamp="1599347570143" />
+    <state width="1899" height="332" key="GridCell.Tab.1.right" timestamp="1599347570144">
+      <screen x="0" y="23" width="1920" height="993" />
+    </state>
+    <state width="1899" height="332" key="GridCell.Tab.1.right/1920.391.1440.877/0.23.1920.993@0.23.1920.993" timestamp="1599347570144" />
     <state x="469" y="147" key="SettingsEditor" timestamp="1598999021510">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
